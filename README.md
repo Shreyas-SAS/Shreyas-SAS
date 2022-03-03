@@ -19,12 +19,12 @@ _**< 📫 contact info**_
 
 _**< 🏆 Showcase**_
 
-**CV: ** <a href="link">Download CV --> </a> <br>
-**Leetcode profile: ** <a href="https://leetcode.com/Shreyas_Sukhadeve/">Leetcode profile --> </a> <br>
-**Codeforces Account: ** <a href="https://codeforces.com/profile/shreyas_sukhadeve">CodeForces profile --> </a> <br>
-**Codechef account: ** <a href="https://www.codechef.com/users/shreyas_1122">Codechef profile --> </a> <br>
-**Kaggle: ** <a href="https://www.kaggle.com/shreyassukhadeve">Kaggle profile --> </a> <br>
-**Github: ** <a href="https://github.com/Shreyas-SAS/">Github profile --> </a> <br>
+**CV:** <a href="link">Download CV --> </a> <br>
+**Leetcode profile:** <a href="https://leetcode.com/Shreyas_Sukhadeve/">Leetcode profile --> </a> <br>
+**Codeforces Account:** <a href="https://codeforces.com/profile/shreyas_sukhadeve">CodeForces profile --> </a> <br>
+**Codechef account:** <a href="https://www.codechef.com/users/shreyas_1122">Codechef profile --> </a> <br>
+**Kaggle:** <a href="https://www.kaggle.com/shreyassukhadeve">Kaggle profile --> </a> <br>
+**Github:** <a href="https://github.com/Shreyas-SAS/">Github profile --> </a> <br>
 
 **/>**
 
