@@ -10,7 +10,7 @@ and WELCOME to my Github Account...
 _**< 📫 contact info**_
 
 <!-- LinkedIn profile -->
-<a href="LinkedIn.svg"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linkedin/linkedin-original.svg" width="40" height="40" /> </a>      <!-- Portfolio Website --> <a href="portfolio.svg"> <img src="https://cdn5.vectorstock.com/i/1000x1000/61/69/icon-internet-symbol-of-the-website-globe-sign-vector-16316169.jpg" width="40" height="40"/> </a>      <!-- Email --> <a href="mailto:20cs01056@iitbbs.ac.in"> <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon-2.svg" width="40" height="40"/> </a> <!-- Whatsapp --> <a href="https://wa.me/918208487623"> <img src="https://cdn.worldvectorlogo.com/logos/whatsapp-icon.svg" width="40" height="40"/> </a> 
+<a href="LinkedIn.svg"> <img src="icons/edited/Linkedin.svg" width="40" height="40" /> </a>      <!-- Portfolio Website --> <a href="portfolio.svg"> <img src="https://cdn5.vectorstock.com/i/1000x1000/61/69/icon-internet-symbol-of-the-website-globe-sign-vector-16316169.jpg" width="40" height="40"/> </a>      <!-- Email --> <a href="mailto:20cs01056@iitbbs.ac.in"> <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon-2.svg" width="40" height="40"/> </a> <!-- Whatsapp --> <a href="https://wa.me/918208487623"> <img src="https://cdn.worldvectorlogo.com/logos/whatsapp-icon.svg" width="40" height="40"/> </a> 
 
 
 **/>**
