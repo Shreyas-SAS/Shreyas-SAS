@@ -32,7 +32,7 @@ _**< 🏆 Showcase**_
 
 _**<🤔 Whoami**_
 
-
+I am a Computer Science and Engineering (CSE) student at Indian Institute of Technology, Bhubaneswar (IIT BBS) scheduled to graduate in 2024. Apart from general college life therotical subjects to pass my exams I like to explore different fields of Technology, I am an Aspiring learner in Web Development, Android App Development and Machine Learning (particularly Data Science) with interest towards Competitive Programming , Cyber Security and Game Development. I wish to refrain from the other too exciting looking things like Blockchain and Smart contracts, AR/VR, and all the fancy stuff for now because i know i will be swayed away.
 
 **/>**
 
