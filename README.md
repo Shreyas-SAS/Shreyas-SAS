@@ -44,7 +44,7 @@ I am an Aspiring learner in **Web Development** and **Machine Learning** (partic
 
 I wish to refrain from the other too exciting looking things like Blockchain and Smart contracts, AR/VR, and all the fancy stuff for now because i know i will be swayed away real quick. You can say this is my weekness. 😅 <br>
 
-I Would really love top collaborate with you no matter how small the project is...☺ 
+I Would really love to collaborate with you, no matter how small the project is. you are always welcomed to contact me...☺ 
 
 **/>**
 
