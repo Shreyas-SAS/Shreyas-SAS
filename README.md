@@ -9,8 +9,8 @@ and WELCOME to my Github Account...
 ---
 _**< 📫 contact info**_
 
-<!-- LinkedIn profile -->
-<a href="LinkedIn.svg"> <img src="icons/edited/Linkedin.svg" width="60" height="60" /> </a>      <!-- Portfolio Website --> <a href="portfolio.svg"> <img src="https://cdn5.vectorstock.com/i/1000x1000/61/69/icon-internet-symbol-of-the-website-globe-sign-vector-16316169.jpg" width="60" height="60"/> </a>      <!-- Email --> <a href="mailto:20cs01056@iitbbs.ac.in"> <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon-2.svg" width="60" height="60"/> </a> <!-- Whatsapp --> <a href="https://wa.me/918208487623"> <img src="https://cdn.worldvectorlogo.com/logos/whatsapp-icon.svg" width="60" height="60"/> </a> 
+<!-- LinkedIn profile:  <a href="LinkedIn.svg"> <img src="icons/edited/Linkedin.svg" width="60" height="60" /> </a>       Portfolio Website: <a href="portfolio.svg"> <img src="https://cdn5.vectorstock.com/i/1000x1000/61/69/icon-internet-symbol-of-the-website-globe-sign-vector-16316169.jpg" width="60" height="60"/> </a> -->     
+<!-- Email --> <a href="mailto:20cs01056@iitbbs.ac.in"> <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon-2.svg" width="60" height="60"/> </a> <!-- Whatsapp --> <a href="https://wa.me/918208487623"> <img src="https://cdn.worldvectorlogo.com/logos/whatsapp-icon.svg" width="60" height="60"/> </a> 
 
 
 **/>**
@@ -19,7 +19,7 @@ _**< 📫 contact info**_
 
 _**< 🏆 Showcase**_
 
-**CV:** <a href="link">Download CV --> </a> <br>
+<!-- **CV:** <a href="link">Download CV  </a> <br> -->
 **Leetcode profile:** <a href="https://leetcode.com/Shreyas_Sukhadeve/">Leetcode profile --> </a> <br>
 **Codeforces Account:** <a href="https://codeforces.com/profile/shreyas_sukhadeve">CodeForces profile --> </a> <br>
 **Codechef account:** <a href="https://www.codechef.com/users/shreyas_1122">Codechef profile --> </a> <br>
@@ -32,7 +32,14 @@ _**< 🏆 Showcase**_
 
 _**<🤔 Whoami**_
 
-I am a Computer Science and Engineering (CSE) student at Indian Institute of Technology, Bhubaneswar (IIT BBS) scheduled to graduate in 2024. Apart from general college life therotical subjects to pass my exams I like to explore different fields of Technology, I am an Aspiring learner in Web Development, Android App Development and Machine Learning (particularly Data Science) with interest towards Competitive Programming , Cyber Security and Game Development. I wish to refrain from the other too exciting looking things like Blockchain and Smart contracts, AR/VR, and all the fancy stuff for now because i know i will be swayed away.
+I am a Computer Science and Engineering (CSE) student at Indian Institute of Technology, Bhubaneswar (IIT BBS) scheduled to graduate in 2024. <br>
+
+Apart from general college life therotical subjects to pass my exams 😅 I like to explore different fields of Technology, <br>
+I am an Aspiring learner in **Web Development** and **Machine Learning** (particularly **Data Science**) with interest towards Competitive Programming , Cyber Security and Game Development.<br> 
+
+I wish to refrain from the other too exciting looking things like Blockchain and Smart contracts, AR/VR, and all the fancy stuff for now because i know i will be swayed away real quick. You can say this is my weekness. 😅 <br>
+
+I Would really love top collaborate with you no matter how small the project is...☺ 
 
 **/>**
 
