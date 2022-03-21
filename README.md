@@ -38,10 +38,10 @@ _**<🤔 Whoami**_
 
 I am a sophomore in Computer Science and Engineering (CSE) at Indian Institute of Technology, Bhubaneswar (IIT BBS) scheduled to graduate in 2024. <br>
 
-Apart from general college life therotical subjects to pass my exams 😅 I like to explore different fields of Technology, <br>
+Apart from general college life theoretical subjects to pass my exams 😅 I like to explore different fields of Technology, <br>
 I am an Aspiring learner in **Web Development** and **Machine Learning** (particularly **Data Science**) with interest towards Competitive Programming , Cyber Security and Game Development.<br> 
 
-I wish to refrain from the other too exciting looking things like Blockchain and Smart contracts, AR/VR, and all the fancy stuff for now because i know i will be swayed away real quick. You can say this is my weekness. 😅 <br>
+I wish to refrain from the other too exciting looking things like Blockchain and Smart contracts, AR/VR, and all the fancy stuff for now because i know i will be swayed away real quick. You can say this is my weakness. 😅 <br>
 
 I Would really love to collaborate with you, no matter how small the project is. you are always welcomed to contact me...☺ 
 
