@@ -83,9 +83,9 @@ _**< <img src="https://bitemycoin.com/wp-content/uploads/2018/06/GitHub-Logo.png
 
 <p align='center'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyas-sas&" alt="shreyas-sas" /></p>
 
-<p align='center'>
+<!-- <p align='center'>
   <a href="#"><img src="https://activity-graph.herokuapp.com/graph?username=Shreyas-SAS&bg_color=000000&color=FFFFFF&line=FFFFFF&point=00FF00"></a>
-</p>
+</p> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyas-sas" alt="shreyas-sas" /></a> </p>
 
