@@ -14,8 +14,8 @@ _**<Welcome**_
 ---
 _**< 📫 contact info**_
 
-<!-- LinkedIn profile:  <a href="LinkedIn.svg"> <img src="icons/edited/Linkedin.svg" width="60" height="60" /> </a>       Portfolio Website: <a href="portfolio.svg"> <img src="https://cdn5.vectorstock.com/i/1000x1000/61/69/icon-internet-symbol-of-the-website-globe-sign-vector-16316169.jpg" width="60" height="60"/> </a> -->     
-<!-- Email --> <a href="mailto:20cs01056@iitbbs.ac.in"> <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon-2.svg" width="60" height="60"/> </a> <!-- Whatsapp --> <a href="https://wa.me/918208487623"> <img src="https://cdn.worldvectorlogo.com/logos/whatsapp-icon.svg" width="60" height="60"/> </a> 
+<a href="https://www.linkedin.com/in/shreyas-sukhadeve-951775234/"> <img src="icons/edited/Linkedin.svg" width="60" height="60" /> </a>      <a href="mailto:20cs01056@iitbbs.ac.in"> <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon-2.svg" width="60" height="60"/> </a>  <a href="https://wa.me/918208487623"> <img src="https://cdn.worldvectorlogo.com/logos/whatsapp-icon.svg" width="60" height="60"/> </a> 
+<!-- Portfolio Website: <a href="portfolio.svg"> <img src="https://cdn5.vectorstock.com/i/1000x1000/61/69/icon-internet-symbol-of-the-website-globe-sign-vector-16316169.jpg" width="60" height="60"/> </a> -->
 
 
 **/>**
