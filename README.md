@@ -2,7 +2,7 @@
 <!-- edit -->
 _**<Welcome**_
 
-<img src="icons\Banner\Github_banner.gif" width=100% height="300px" align="center"/>
+<!-- <img src="icons\Banner\Github_banner.gif" width=100% height="300px" align="center"/> -->
 
 <h1 align="center">Hi Everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shreyas Sukhadeve</h1>
 <h3 align="center">Welcome to my GitHub Profile...</h3>
