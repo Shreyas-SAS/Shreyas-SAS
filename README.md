@@ -6,6 +6,13 @@ _**<Welcome**_
 <h1 align="center">Hi Everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shreyas Sukhadeve</h1>
 <h3 align="center">Welcome to my GitHub Profile...</h3>
 
+<p align="center">
+I am a undergrad student in Computer Science domain at IIT Bhubaneswar <br> and I am also a Web Developer and Machine Learning Engineer with few Internship experiences. <br>
+If you want to know more about me I suggest you to visit my portfolio or check out my resume. <br> Also please do feel free to contact me in future for any reason.<br> I am always open for opportunities. <br>
+Check out my <a href="https://shreyas-sas.github.io/"> Portfolio Website </a> or
+<a href="https://drive.google.com/file/d/1X0Fty1iKzScYSREajusoIVDOlsR2tUiq/view?usp=sharing"> Resume </a> here.
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyas-sas&label=Profile%20views&color=0e75b6&style=flat" alt="shreyas-sas" /> </p>
 
 **/>**
