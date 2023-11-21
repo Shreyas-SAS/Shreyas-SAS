@@ -45,14 +45,22 @@ _**< 🏆 Connect with me**_
 
 _**<🤔 Whoami**_
 
-I am a sophomore in Computer Science and Engineering (CSE) at Indian Institute of Technology, Bhubaneswar (IIT BBS) scheduled to graduate in 2024. <br>
+I am a Final Year B.Tech. (2024) Student in Computer Science and Engineering at IIT Bhubaneswar (IITBBS) with a broad range of expertise. I am majorly focused on Applied Machine Learning over Financial Markets and Quantitative Analysis but I do have a fair enough skillset in Software Development, Image Processing, NLP, Data Science / Data Analysis and Web Development. I am currently Interviewing for various roles in the industry related to Machine Learning, Data Science or Finance.
 
-Apart from general college life theoretical subjects to pass my exams 😅 I like to explore different fields of Technology, <br>
-I am an Aspiring learner in **Web Development** and **Machine Learning** (particularly **Data Science**) with interest towards Competitive Programming , Cyber Security and Game Development.<br> 
+With a varied and spread tech-stack I do not offer a mastery in all but one field, making me flexible in the process and able to call myself a "Jack of all Trades but Master of One". I believe that choosing a single field from Bachelor's Level itself would not be a nice choice given the changing markets. Although yes, I do confess to have invested a large portion of last 1.5 years towards ML, specifically applied in Finance domain, especially for predictive time series data analysis or Quantitative Research or Quantitative Analysis. Even after this time I do not consider myself a master but only an intermediate learner who could be a little better choice at such jobs over others.
 
-I wish to refrain from the other too exciting looking things like Blockchain and Smart contracts, AR/VR, and all the fancy stuff for now because i know i will be swayed away real quick. You can say this is my weakness. 😅 <br>
+I have invested heavily in gaining insights from different roles for the past few years as can be seen from my work experience. In the process I believe that I have made myself flexible enough to survive in startup like conditions as well as slow paced research environments. With working for 65 hours a week during summers of my 2nd year when most of my peers were relaxing I believe that I have made an effort towards my goal.
 
-I Would really love to collaborate with you, no matter how small the project is. you are always welcomed to contact me...☺ 
+I agree that such diverse skillset comes with a cost of dilution of concept and it has been evident to me in past few months. As opposed to that I believe it comes at an advantage to grasp things quicker than someone who is just starting. With varied roles I have made myself flexible to switch roles quick allowing me to work on a diverse skillset than others and I wish to Market that to you.
+
+I would like to re-iterate here that I am currently looking to join a Full time position soon around May-2024 and would be happy if you have an opportunity available for me in your organization.
+
+For any doubts or discussion about an opening or even a casual talk to know me better, please feel free to contact me at:
+Email 1: 20cs01056@iitbbs.ac.in
+Email 2: shreyassukhadeve@gmail.com
+Phone No.: +91 8208487623
+
+Thank you for reading it till this point.
 
 **/>**
 
